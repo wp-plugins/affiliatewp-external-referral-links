@@ -15,7 +15,13 @@ Allows affiliates to promote external WordPress sites by including the affiliate
 
 Like other affiliate plugins, AffiliateWP must be installed on the same domain as your eCommerce or membership system to properly track visits and referrals.
 
-This plugin allows your affiliates to promote any external WordPress-based site. Simply install this plugin on the external WordPress site and your affiliates can now promote it using the site's URL and their affiliate ID or username appended (eg /?ref=123 or /?ref=john). If a customer uses the affiliate's referral URL, any outbound links to your main website where AffiliateWP is installed will automatically include the affiliate's ID or username. If the customer then makes a purchase on your e-commerce store, the referring affiliate will be awarded a commission. The affiliate's ID or username is stored in a cookie so even if the customer moves between pages on your site, the outbound links will still have the affiliate's ID or username appended.
+This plugin allows your affiliates to promote your external WordPress-based site/s. Simply install this plugin on the external WordPress site and your affiliates can now promote it using the site's URL and their affiliate ID or username appended (eg /?ref=123 or /?ref=john). 
+
+If a customer uses the affiliate's referral URL, any outbound links to your main website where AffiliateWP is installed will automatically include the affiliate's ID or username. If the customer then makes a purchase on your main website, the referring affiliate will be awarded a commission. 
+
+The affiliate's ID or username is stored in a cookie so even if the customer moves between pages on your site, the outbound links will still have the affiliate's ID or username appended.
+
+More information at [http://affiliatewp.com/addons/external-referral-links/](http://affiliatewp.com/addons/external-referral-links "External Referral Links")
 
 **What is AffiliateWP?**
 
@@ -33,6 +39,8 @@ OR you can just install it with WordPress by going to Plugins >> Add New >> and 
 == Frequently Asked Questions ==
 
 == Screenshots ==
+
+1. Admin settings
 
 == Upgrade Notice ==
 
