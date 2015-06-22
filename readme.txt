@@ -31,11 +31,9 @@ This plugin allows your affiliates to promote any landing page (or site) that ex
 
 OR you can just install it with WordPress by going to Plugins >> Add New >> and type this plugin's name
 
-== Frequently Asked Questions ==
-
 == Screenshots ==
 
-== Upgrade Notice ==
+1. The admin screen
 
 == Changelog ==
 
